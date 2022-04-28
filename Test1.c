@@ -1,5 +1,6 @@
-
-
-/*
-   This ist a Test
+/* 
+ * This ist a Test
  */
+void test() {
+    run_something();
+}
